@@ -1,0 +1,8 @@
+cd "C:\Users\alire\OneDrive\Desktop\ALIREZA\Thesis\M.L\Machine Learning\My Codes\7"
+
+
+dir
+ 
+
+
+streamlit run car_price_prediction_app.py
